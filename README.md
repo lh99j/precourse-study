@@ -23,6 +23,8 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 [임형준](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/51)
 <br>
 [양원식](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/7)
+<br>
+[박이나](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/77)
 
 <br><br>
 ## 재구현
