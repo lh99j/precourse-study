@@ -56,13 +56,15 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 [강민아](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/21)
 <br>
 [박이나](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/112)
+<br>
+[양원식](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/10)
 
 <br>
 <p>각자 코드 리뷰하시구 누구 누구 했는지 밑에 남겨주시면 됩니다!! 3주차 미션 끝나기 전까지 해주시면 감사하겠습니당!!</p>
 <p>임형준 : 강민아님, 박이나님, 김대원님, 양원식님 코드리뷰 완료했습니다.</p>
 <p>강민아 : 임형준 님, 김대원님, 양원식님, 박이나님 코드리뷰 완료했습니다. 다른 분들이 작성해주신 것과 겹치는 내용은 작성을 따로 하지않았습니다! </p>
 <p>박이나 : 그린비(김대원)님,양원식님,강민아님 코드리뷰 완료했습니다. 김대원님의 코드리뷰의 경우 다른 분들과 내용이 지나치게 겹칠 것 같아서 작성을 따로 하지 않았습니다:)</p>
-
+<p>양원식 : </p>
 
 <br><br>
 ## 재구현
