@@ -76,6 +76,8 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 ### 1주차 재구현
 
 [임형준](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/247)
+<br>
+[강민아](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/248)
 
 <br>
 
