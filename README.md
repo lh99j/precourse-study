@@ -92,6 +92,8 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 <p>그냥 기존 레포에 PR 날리는 방식으로 해야할 것 같습니다!</p>
 
 [임형준](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/234)
+<br>
+[강민아](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/236)
 
 <br>
 
