@@ -70,7 +70,9 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 <br>
 
 ### 3주차 PR링크
-[임형준](https://github.com/woowacourse-precourse/kotlin-lotto-6/pull/6#discussion_r1387312620)'
+- [임형준](https://github.com/woowacourse-precourse/kotlin-lotto-6/pull/6)
+- [강민아](https://github.com/woowacourse-precourse/kotlin-lotto-6/pull/11)
+  
 <br>
 
 <br>
@@ -108,6 +110,7 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 
 <br>
 
+<p>다들 4주동안 고생 많으셨습니당!! 발표까지 남은 기간동안 재구현 및 이전 기출을 풀어보려고 하는데 괜찮나용?!</p>
     
 </p>
 
