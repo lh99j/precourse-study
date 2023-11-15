@@ -114,3 +114,15 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 <br><br>
 ## 각자 공부한 내용
 링크가 있으면 링크 올려주시면 됩니다!. 없으시면 안올리셔두 돼요.
+
+<p> 임형준 공부 내용 정리 </p>
+
+[리팩토링 이란?](https://anjji.tistory.com/25)
+<br>
+[MVC 패턴](https://anjji.tistory.com/27)
+<br>
+[Clean Code](https://anjji.tistory.com/27)
+<br>
+[객체지향 5원칙 SOLID](https://anjji.tistory.com/30)
+<br>
+[숫자야구 재구현 과정](https://anjji.tistory.com/32)
