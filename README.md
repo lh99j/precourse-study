@@ -92,7 +92,7 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 <br>
 [강민아](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/248)
 <br>
-[박이나](https://github.com/park-yina/kotlin-baseball-6/tree/park-yina-refactory)
+[박이나](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/249)
 
 - 강민아 : 임형준님 1주차 재구현 코드리뷰 완료했습니다!
 - 임형준 : 강민아님 1주차 재구현 코드리뷰 완료했습니다!
