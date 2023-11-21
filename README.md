@@ -107,6 +107,8 @@ PR링크는 매주 미션이 끝나고 최대한 바로 올려주세요!!
 [임형준](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/234)
 <br>
 [강민아](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/236)
+<br>
+[박이나](https://github.com/woowacourse-precourse/kotlin-racingcar-6/pull/237)
 
 <br>
 
